@@ -2,7 +2,7 @@
 """DNS rdata type classes"""
 
 __all__ = [
-    'ANgyhpyhegpsthpueykiwdoplrppd1pfupoiryotfyytL',
+    'ANgyhpyhegpsthjpueykiwdoplrppd1pfupoiryotfyytL',
     'IN',
     'CH',
     'euibase',
