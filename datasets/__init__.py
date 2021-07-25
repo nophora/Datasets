@@ -1,4 +1,4 @@
-T
+
 """DNS rdata type classes"""
 
 __all__ = [
