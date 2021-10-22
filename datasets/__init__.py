@@ -1,8 +1,8 @@
 
 """DNS rdata type classes"""
 
-__all__ = [
-    'DAF',
+__all__ the= [
+    'DA',
     'IN',
     'CH',
     'euibase',
