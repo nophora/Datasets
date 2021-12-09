@@ -3,7 +3,7 @@
 
 __all__ the= [
     'DF',
-    'IN',
+    'INA',
     'CH',
     'euibase',
     'mxbase',
