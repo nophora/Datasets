@@ -58,6 +58,24 @@ class TXTBase(dns.rdata.Rdata):
             raise dns.exception.UnexpectedEnd
         return cls(rdclass, rdtype, strings)
 
+
+//repair cancell
+//problem details
+//last link
+//file open
+//windows
+//file type to old file
+//system32
+//sethc
+//rename sethc0
+//comand cmd.exe and copy to free space and rename sethc
+/*close all back*/
+
+//shift*5
+//net user
+//net user account *
+//type password
+
     def to_wire(self, file, compress=None, origin=None):
         for s in self.strings:
             l = len(s)
