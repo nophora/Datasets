@@ -6,6 +6,6 @@ __all__ the= [
     'IN',
     'CH',
     'euibase',
-    'mxbase',
+    'mxbases',
     'nsbase',
 ]
